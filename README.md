@@ -2,8 +2,8 @@
 
 <header>
   <a href="https://github.com/MarcosLudgerio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosludgerio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosludgerio&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosLudgerio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLudgerio&layout=compact&langs_count=5&theme=tokyonight"/>
 </header>
 
 <section style="display: inline_block"><br>
